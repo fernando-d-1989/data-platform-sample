@@ -1,0 +1,13 @@
+{
+  "contacts": [
+    {"id": "1001", "email": "Ana@Example.com", "phone": "(312) 555-0142", "source": "google ads", "procedure_of_interest": "Liposculpture", "city": "CHICAGO, IL", "age": 41, "owner": "adv-01", "created": "2026-01-10", "activity_dates": ["01/12/2026", "Jan 15, 2026"], "patient_record_number": "MR-1"},
+    {"id": "1002", "email": "luis@example.com", "phone": null, "source": "Website", "procedure_of_interest": "Rhinoplasty", "city": "houston tx", "age": 29, "owner": "adv-02", "created": "2026-01-12", "activity_dates": [], "patient_record_number": null},
+    {"id": "1003", "email": "mara@example.com", "phone": "312.555.0143", "source": "REFERRAL ", "procedure_of_interest": "Tummy tuck", "city": "Miami", "age": 52, "owner": "adv-01", "created": "Feb 02, 2026", "activity_dates": [], "patient_record_number": null},
+    {"id": "1003", "email": "mara@example.com", "phone": "312.555.0143", "source": "REFERRAL ", "procedure_of_interest": "Tummy tuck", "city": "Miami", "age": 52, "owner": "adv-01", "created": "Feb 02, 2026", "activity_dates": [], "patient_record_number": null}
+  ],
+  "appointments": [
+    {"id": "5001", "contact_id": "1001", "type": "Consultation", "status": "completed", "date": "01/20/2026", "confirmed_day_before": "Y", "amount": ""},
+    {"id": "5002", "contact_id": "1001", "type": "Surgery", "status": "completed", "date": "2026-02-01", "confirmed_day_before": null, "amount": "$12,500.00"},
+    {"id": "5003", "contact_id": "1003", "type": "assessment", "status": "NoShow", "date": "2026-02-15", "confirmed_day_before": "no", "amount": "0"}
+  ]
+}

@@ -1,0 +1,100 @@
+{"id": "5002360", "contact_id": "107143", "type": "surgery", "status": "Completed", "date": "2025-04-11", "confirmed_day_before": null, "amount": "16490"}
+{"id": "5003798", "contact_id": "118372", "type": "consult ", "status": "completed", "date": "11/10/2025", "confirmed_day_before": "no", "amount": ""}
+{"id": "5003392", "contact_id": "119027", "type": "assessment", "status": "NoShow", "date": "09/12/2025", "confirmed_day_before": "FALSE", "amount": "$0.00"}
+{"id": "5002616", "contact_id": "114149", "type": "assessment", "status": "NoShow", "date": "2025-05-19", "confirmed_day_before": "0", "amount": ""}
+{"id": "5002733", "contact_id": "114834", "type": "Assessment", "status": "missed", "date": "2025-06-05T14:33:00Z", "confirmed_day_before": "Yes", "amount": null}
+{"id": "5003621", "contact_id": "117903", "type": "Surgery", "status": "Completed", "date": "Oct 18, 2025", "confirmed_day_before": null, "amount": "18,210.00"}
+{"id": "5003095", "contact_id": "116322", "type": "consult ", "status": "attended", "date": "Aug 02, 2025", "confirmed_day_before": "TRUE", "amount": "$0.00"}
+{"id": "5001539", "contact_id": "105107", "type": "SURGERY", "status": "performed", "date": "12/27/2024", "confirmed_day_before": null, "amount": "$14,440.00"}
+{"id": "5003528", "contact_id": "116202", "type": "Consultation", "status": "no-show", "date": "2025-10-03", "confirmed_day_before": "0", "amount": "0"}
+{"id": "5003574", "contact_id": "119955", "type": "Assessment", "status": "attended", "date": "2025-10-10", "confirmed_day_before": "1", "amount": ""}
+{"id": "5005451", "contact_id": "125609", "type": "consult ", "status": "completed", "date": "Jun 18, 2026", "confirmed_day_before": "No", "amount": ""}
+{"id": "5003230", "contact_id": "116458", "type": "consult ", "status": "attended", "date": "2025-08-21T15:48:00Z", "confirmed_day_before": "yes", "amount": "0"}
+{"id": "5002793", "contact_id": "113803", "type": "consult ", "status": "NoShow", "date": "2025-06-14T12:14:00Z", "confirmed_day_before": "0", "amount": null}
+{"id": "5004751", "contact_id": "125143", "type": "Assessment", "status": "Showed", "date": "2026-03-20T12:54:00Z", "confirmed_day_before": "TRUE", "amount": null}
+{"id": "5002382", "contact_id": "113250", "type": "assessment", "status": "Showed", "date": "2025-04-14", "confirmed_day_before": "Y", "amount": "0"}
+{"id": "5005005", "contact_id": "121914", "type": "assessment", "status": "Attended", "date": "2026-04-20T14:19:00Z", "confirmed_day_before": "0", "amount": "$0.00"}
+{"id": "5003480", "contact_id": "113802", "type": "SURGERY", "status": "Done", "date": "2025-09-26T11:08:00Z", "confirmed_day_before": null, "amount": "14660"}
+{"id": "5005085", "contact_id": "125613", "type": "SURGERY", "status": "Done", "date": "2026-04-30T13:50:00Z", "confirmed_day_before": null, "amount": "USD 8,480"}
+{"id": "5005670", "contact_id": "129529", "type": "Consultation", "status": "Attended", "date": "2026-07-13T08:18:00Z", "confirmed_day_before": "No", "amount": "$0.00"}
+{"id": "5003903", "contact_id": "118778", "type": "Procedure", "status": "performed", "date": "2025-11-26", "confirmed_day_before": null, "amount": "$14,430.00"}
+{"id": "5003416", "contact_id": "110575", "type": "surgery", "status": "Completed", "date": "2025-09-16", "confirmed_day_before": null, "amount": "$16,740.00"}
+{"id": "5005699", "contact_id": "129847", "type": "Assessment", "status": "attended", "date": "2026-07-16T14:49:00Z", "confirmed_day_before": "TRUE", "amount": "$0.00"}
+{"id": "5001998", "contact_id": "110465", "type": "Assessment", "status": "completed", "date": "Feb 24, 2025", "confirmed_day_before": "Y", "amount": "$0.00"}
+{"id": "5005144", "contact_id": "122776", "type": "assessment", "status": "Attended", "date": "05/08/2026", "confirmed_day_before": "Y", "amount": "0"}
+{"id": "5003020", "contact_id": "115271", "type": "Assessment", "status": "no-show", "date": "2025-07-21T09:40:00Z", "confirmed_day_before": "N", "amount": "0"}
+{"id": "5003558", "contact_id": "116895", "type": "assessment", "status": "no-show", "date": "2025-10-09T12:06:00Z", "confirmed_day_before": "No", "amount": ""}
+{"id": "5003948", "contact_id": "120310", "type": "Consultation", "status": "no-show", "date": "2025-12-01T09:09:00Z", "confirmed_day_before": "Y", "amount": "$0.00"}
+{"id": "5004814", "contact_id": "119200", "type": "SURGERY", "status": "Done", "date": "2026-03-30T15:41:00Z", "confirmed_day_before": null, "amount": "USD 19,770"}
+{"id": "5000558", "contact_id": "102492", "type": "assessment", "status": "Attended", "date": "2024-08-02T13:21:00Z", "confirmed_day_before": "0", "amount": "$0.00"}
+{"id": "5001274", "contact_id": "106483", "type": "Surgery", "status": "Completed", "date": "2024-11-20T15:25:00Z", "confirmed_day_before": null, "amount": "16330"}
+{"id": "5000344", "contact_id": "101581", "type": "consult ", "status": "no-show", "date": "2024-07-01", "confirmed_day_before": "TRUE", "amount": "0"}
+{"id": "5001209", "contact_id": "105301", "type": "Surgery", "status": "Completed", "date": "2024-11-13T12:57:00Z", "confirmed_day_before": null, "amount": "13770"}
+{"id": "5001247", "contact_id": "106507", "type": "Consultation", "status": "No show", "date": "2024-11-18T09:40:00Z", "confirmed_day_before": "FALSE", "amount": "$0.00"}
+{"id": "5005380", "contact_id": "129187", "type": "Consultation", "status": "Attended", "date": "2026-06-08T08:13:00Z", "confirmed_day_before": "Yes", "amount": ""}
+{"id": "5003125", "contact_id": "115433", "type": "Consultation", "status": "No show", "date": "2025-08-05", "confirmed_day_before": "N", "amount": null}
+{"id": "5004845", "contact_id": "125475", "type": "Assessment", "status": "completed", "date": "2026-04-01T13:08:00Z", "confirmed_day_before": "1", "amount": "0"}
+{"id": "5002574", "contact_id": "114356", "type": "Consultation", "status": "Showed", "date": "May 13, 2025", "confirmed_day_before": "0", "amount": ""}
+{"id": "5005541", "contact_id": "120424", "type": "surgery", "status": "Completed", "date": "2026-06-27", "confirmed_day_before": null, "amount": "15,390.00"}
+{"id": "5004876", "contact_id": "122228", "type": "assessment", "status": "no-show", "date": "Apr 04, 2026", "confirmed_day_before": "0", "amount": "$0.00"}
+{"id": "5001100", "contact_id": "100625", "type": "Surgery", "status": "Done", "date": "2024-10-28T15:24:00Z", "confirmed_day_before": null, "amount": "18,650.00"}
+{"id": "5005989", "contact_id": "129307", "type": "Consultation", "status": "No show", "date": "08/21/2026", "confirmed_day_before": "1", "amount": null}
+{"id": "5000562", "contact_id": "102543", "type": "assessment", "status": "attended", "date": "Aug 03, 2024", "confirmed_day_before": "1", "amount": null}
+{"id": "5003211", "contact_id": "116447", "type": "Assessment", "status": "NoShow", "date": "2025-08-19", "confirmed_day_before": "FALSE", "amount": ""}
+{"id": "5005265", "contact_id": "126224", "type": "Surgery", "status": "performed", "date": "05/23/2026", "confirmed_day_before": null, "amount": "USD 18,650"}
+{"id": "5000720", "contact_id": "104810", "type": "consult ", "status": "attended", "date": "Aug 30, 2024", "confirmed_day_before": "TRUE", "amount": "$0.00"}
+{"id": "5003623", "contact_id": "119107", "type": "assessment", "status": "no-show", "date": "2025-10-18T15:01:00Z", "confirmed_day_before": "0", "amount": null}
+{"id": "5000396", "contact_id": "102222", "type": "assessment", "status": "Showed", "date": "07/08/2024", "confirmed_day_before": "0", "amount": "0"}
+{"id": "5004615", "contact_id": "124700", "type": "Consultation", "status": "missed", "date": "03/05/2026", "confirmed_day_before": "No", "amount": ""}
+{"id": "5005052", "contact_id": "125261", "type": "assessment", "status": "completed", "date": "Apr 24, 2026", "confirmed_day_before": "no", "amount": null}
+{"id": "5004994", "contact_id": "125954", "type": "Assessment", "status": "completed", "date": "2026-04-17T08:35:00Z", "confirmed_day_before": "TRUE", "amount": ""}
+{"id": "5006138", "contact_id": "126947", "type": "surgery", "status": "Completed", "date": "2026-09-08T08:22:00Z", "confirmed_day_before": null, "amount": "$7,010.00"}
+{"id": "5003322", "contact_id": "117795", "type": "Consultation", "status": "no-show", "date": "2025-09-02T09:25:00Z", "confirmed_day_before": "no", "amount": null}
+{"id": "5004390", "contact_id": "122677", "type": "Consultation", "status": "Attended", "date": "02/06/2026", "confirmed_day_before": "TRUE", "amount": ""}
+{"id": "5005103", "contact_id": "122480", "type": "consult ", "status": "Showed", "date": "May 02, 2026", "confirmed_day_before": "TRUE", "amount": ""}
+{"id": "5002916", "contact_id": "115373", "type": "Consultation", "status": "No show", "date": "2025-07-04T09:34:00Z", "confirmed_day_before": "0", "amount": ""}
+{"id": "5001698", "contact_id": "107729", "type": "consult ", "status": "missed", "date": "2025-01-16T15:10:00Z", "confirmed_day_before": "1", "amount": null}
+{"id": "5003061", "contact_id": "112565", "type": "consult ", "status": "completed", "date": "07/28/2025", "confirmed_day_before": "no", "amount": "$0.00"}
+{"id": "5003294", "contact_id": "117521", "type": "assessment", "status": "no-show", "date": "2025-08-29", "confirmed_day_before": "0", "amount": "$0.00"}
+{"id": "5001915", "contact_id": "107713", "type": "surgery", "status": "performed", "date": "2025-02-12T08:06:00Z", "confirmed_day_before": null, "amount": "USD 16,330"}
+{"id": "5000753", "contact_id": "102644", "type": "consult ", "status": "NoShow", "date": "09/06/2024", "confirmed_day_before": "Yes", "amount": "0"}
+{"id": "5003526", "contact_id": "115570", "type": "surgery", "status": "Completed", "date": "2025-10-03T08:45:00Z", "confirmed_day_before": null, "amount": "12,500.00"}
+{"id": "5004833", "contact_id": "125296", "type": "Consultation", "status": "Showed", "date": "03/30/2026", "confirmed_day_before": "no", "amount": "$0.00"}
+{"id": "5001022", "contact_id": "105171", "type": "Consultation", "status": "completed", "date": "10/16/2024", "confirmed_day_before": "N", "amount": null}
+{"id": "5004484", "contact_id": "122007", "type": "Surgery", "status": "performed", "date": "2026-02-19T19:02:00Z", "confirmed_day_before": null, "amount": "USD 20,040"}
+{"id": "5004849", "contact_id": "122400", "type": "assessment", "status": "attended", "date": "2026-04-02T10:04:00Z", "confirmed_day_before": "Y", "amount": ""}
+{"id": "5000945", "contact_id": "105035", "type": "consult ", "status": "completed", "date": "2024-10-05T17:12:00Z", "confirmed_day_before": "no", "amount": ""}
+{"id": "5002814", "contact_id": "115187", "type": "Assessment", "status": "attended", "date": "06/18/2025", "confirmed_day_before": "no", "amount": "$0.00"}
+{"id": "5004861", "contact_id": "125697", "type": "assessment", "status": "NoShow", "date": "2026-04-02T18:57:00Z", "confirmed_day_before": "Y", "amount": ""}
+{"id": "5002021", "contact_id": "109872", "type": "Assessment", "status": "no-show", "date": "2025-02-27T17:32:00Z", "confirmed_day_before": "No", "amount": "$0.00"}
+{"id": "5004836", "contact_id": "124199", "type": "Consultation", "status": "missed", "date": "2026-03-31T13:03:00Z", "confirmed_day_before": "N", "amount": "$0.00"}
+{"id": "5000527", "contact_id": "101214", "type": "Surgery", "status": "performed", "date": "2024-07-30T08:44:00Z", "confirmed_day_before": null, "amount": "$19,450.00"}
+{"id": "5003241", "contact_id": "117128", "type": "Assessment", "status": "No show", "date": "08/22/2025", "confirmed_day_before": "yes", "amount": "$0.00"}
+{"id": "5002055", "contact_id": "111805", "type": "consult ", "status": "no-show", "date": "03/03/2025", "confirmed_day_before": "N", "amount": "$0.00"}
+{"id": "5000499", "contact_id": "101304", "type": "Procedure", "status": "performed", "date": "07/25/2024", "confirmed_day_before": null, "amount": "19980"}
+{"id": "5002867", "contact_id": "114199", "type": "Assessment", "status": "No show", "date": "2025-06-27", "confirmed_day_before": "no", "amount": ""}
+{"id": "5002010", "contact_id": "111142", "type": "consult ", "status": "No show", "date": "2025-02-25", "confirmed_day_before": "TRUE", "amount": null}
+{"id": "5001836", "contact_id": "108931", "type": "surgery", "status": "performed", "date": "02/03/2025", "confirmed_day_before": null, "amount": "13420"}
+{"id": "5001363", "contact_id": "107236", "type": "Consultation", "status": "Showed", "date": "2024-12-02T12:42:00Z", "confirmed_day_before": "no", "amount": "0"}
+{"id": "5003449", "contact_id": "113116", "type": "Procedure", "status": "performed", "date": "2025-09-22T10:28:00Z", "confirmed_day_before": null, "amount": "14940"}
+{"id": "5005246", "contact_id": "125013", "type": "assessment", "status": "Attended", "date": "2026-05-21T19:10:00Z", "confirmed_day_before": "TRUE", "amount": "0"}
+{"id": "5004944", "contact_id": "124834", "type": "consult ", "status": "Attended", "date": "2026-04-11T14:21:00Z", "confirmed_day_before": "FALSE", "amount": "$0.00"}
+{"id": "5001779", "contact_id": "106882", "type": "consult ", "status": "Attended", "date": "2025-01-27T15:06:00Z", "confirmed_day_before": "TRUE", "amount": ""}
+{"id": "5001331", "contact_id": "107572", "type": "Consultation", "status": "Showed", "date": "2024-11-28T12:58:00Z", "confirmed_day_before": "no", "amount": "$0.00"}
+{"id": "5004251", "contact_id": "122561", "type": "assessment", "status": "No show", "date": "Jan 17, 2026", "confirmed_day_before": "FALSE", "amount": ""}
+{"id": "5005884", "contact_id": "129805", "type": "surgery", "status": "Done", "date": "2026-08-10T14:44:00Z", "confirmed_day_before": null, "amount": "17,000.00"}
+{"id": "5004387", "contact_id": "120465", "type": "Procedure", "status": "performed", "date": "2026-02-06T08:55:00Z", "confirmed_day_before": null, "amount": "$3,850.00"}
+{"id": "5000323", "contact_id": "101382", "type": "Assessment", "status": "attended", "date": "2024-06-27T18:53:00Z", "confirmed_day_before": "Yes", "amount": ""}
+{"id": "5000115", "contact_id": "101031", "type": "consult ", "status": "completed", "date": "2024-05-18T15:45:00Z", "confirmed_day_before": "No", "amount": ""}
+{"id": "5005985", "contact_id": "130914", "type": "assessment", "status": "Showed", "date": "2026-08-20T17:43:00Z", "confirmed_day_before": "TRUE", "amount": ""}
+{"id": "5000464", "contact_id": "102023", "type": "Procedure", "status": "performed", "date": "2024-07-19T18:27:00Z", "confirmed_day_before": null, "amount": "$18,920.00"}
+{"id": "5002900", "contact_id": "115313", "type": "assessment", "status": "NoShow", "date": "2025-07-01T10:55:00Z", "confirmed_day_before": "no", "amount": "0"}
+{"id": "5005542", "contact_id": "124511", "type": "assessment", "status": "attended", "date": "06/27/2026", "confirmed_day_before": "TRUE", "amount": null}
+{"id": "5006073", "contact_id": "132350", "type": "assessment", "status": "Attended", "date": "Aug 31, 2026", "confirmed_day_before": "TRUE", "amount": "$0.00"}
+{"id": "5005988", "contact_id": "128911", "type": "consult ", "status": "Attended", "date": "2026-08-21T15:29:00Z", "confirmed_day_before": "TRUE", "amount": "0"}
+{"id": "5002141", "contact_id": "105737", "type": "Surgery", "status": "performed", "date": "03/14/2025", "confirmed_day_before": null, "amount": "16240"}
+{"id": "5004488", "contact_id": "123712", "type": "consult ", "status": "No show", "date": "2026-02-19", "confirmed_day_before": "FALSE", "amount": "$0.00"}
+{"id": "5001469", "contact_id": "108513", "type": "assessment", "status": "no-show", "date": "12/16/2024", "confirmed_day_before": "0", "amount": "$0.00"}
+{"id": "5006328", "contact_id": "133104", "type": "Consultation", "status": "completed", "date": "2026-09-28T18:46:00Z", "confirmed_day_before": "yes", "amount": null}
+{"id": "5002042", "contact_id": "110916", "type": "Consultation", "status": "Attended", "date": "2025-03-01T19:08:00Z", "confirmed_day_before": "yes", "amount": null}
+{"id": "5005426", "contact_id": "128459", "type": "Consultation", "status": "Attended", "date": "06/15/2026", "confirmed_day_before": "TRUE", "amount": "0"}

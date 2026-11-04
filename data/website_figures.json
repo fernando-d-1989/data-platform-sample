@@ -1,0 +1,353 @@
+{
+  "note": "Printed by the website's own screen formulas (bizi.solutions/en/demo/clinica). Gold must reproduce every one.",
+  "as_of": "2026-09-30",
+  "before": {
+    "from": "2025-04",
+    "to": "2025-09"
+  },
+  "after": {
+    "from": "2026-04",
+    "to": "2026-09"
+  },
+  "overview": {
+    "before": {
+      "leads": 6076,
+      "assessments_attended": 585,
+      "no_shows": 341,
+      "surgeries": 301,
+      "revenue": 4389930
+    },
+    "after": {
+      "leads": 8067,
+      "assessments_attended": 873,
+      "no_shows": 240,
+      "surgeries": 400,
+      "revenue": 5888830
+    }
+  },
+  "by_channel": {
+    "Instagram": {
+      "after": {
+        "leads": 2532,
+        "assessments_attended": 245,
+        "no_shows": 72,
+        "surgeries": 107,
+        "revenue": 1588250
+      },
+      "before": {
+        "leads": 2083,
+        "assessments_attended": 177,
+        "no_shows": 111,
+        "surgeries": 78,
+        "revenue": 1145280
+      }
+    },
+    "Google": {
+      "after": {
+        "leads": 1655,
+        "assessments_attended": 216,
+        "no_shows": 56,
+        "surgeries": 88,
+        "revenue": 1263390
+      },
+      "before": {
+        "leads": 1368,
+        "assessments_attended": 143,
+        "no_shows": 79,
+        "surgeries": 76,
+        "revenue": 1079740
+      }
+    },
+    "Referral": {
+      "after": {
+        "leads": 466,
+        "assessments_attended": 102,
+        "no_shows": 31,
+        "surgeries": 58,
+        "revenue": 880370
+      },
+      "before": {
+        "leads": 442,
+        "assessments_attended": 76,
+        "no_shows": 49,
+        "surgeries": 43,
+        "revenue": 637080
+      }
+    },
+    "Facebook": {
+      "after": {
+        "leads": 2048,
+        "assessments_attended": 125,
+        "no_shows": 31,
+        "surgeries": 55,
+        "revenue": 777740
+      },
+      "before": {
+        "leads": 1037,
+        "assessments_attended": 69,
+        "no_shows": 44,
+        "surgeries": 41,
+        "revenue": 554430
+      }
+    },
+    "WhatsApp": {
+      "after": {
+        "leads": 853,
+        "assessments_attended": 126,
+        "no_shows": 35,
+        "surgeries": 55,
+        "revenue": 808100
+      },
+      "before": {
+        "leads": 715,
+        "assessments_attended": 85,
+        "no_shows": 40,
+        "surgeries": 49,
+        "revenue": 742320
+      }
+    },
+    "Website": {
+      "after": {
+        "leads": 513,
+        "assessments_attended": 59,
+        "no_shows": 15,
+        "surgeries": 37,
+        "revenue": 570980
+      },
+      "before": {
+        "leads": 431,
+        "assessments_attended": 35,
+        "no_shows": 18,
+        "surgeries": 14,
+        "revenue": 231080
+      }
+    }
+  },
+  "by_procedure": {
+    "Liposculpture": {
+      "after": {
+        "leads": 2917,
+        "assessments_attended": 292,
+        "no_shows": 83,
+        "surgeries": 141,
+        "revenue": 2603450
+      },
+      "before": {
+        "leads": 1591,
+        "assessments_attended": 156,
+        "no_shows": 94,
+        "surgeries": 82,
+        "revenue": 1525220
+      }
+    },
+    "Breast augmentation": {
+      "after": {
+        "leads": 1521,
+        "assessments_attended": 168,
+        "no_shows": 54,
+        "surgeries": 81,
+        "revenue": 1316800
+      },
+      "before": {
+        "leads": 1267,
+        "assessments_attended": 116,
+        "no_shows": 70,
+        "surgeries": 66,
+        "revenue": 1062440
+      }
+    },
+    "Rhinoplasty": {
+      "after": {
+        "leads": 1235,
+        "assessments_attended": 127,
+        "no_shows": 17,
+        "surgeries": 56,
+        "revenue": 768060
+      },
+      "before": {
+        "leads": 1129,
+        "assessments_attended": 107,
+        "no_shows": 59,
+        "surgeries": 44,
+        "revenue": 596680
+      }
+    },
+    "Eyelid surgery": {
+      "after": {
+        "leads": 845,
+        "assessments_attended": 94,
+        "no_shows": 33,
+        "surgeries": 49,
+        "revenue": 384100
+      },
+      "before": {
+        "leads": 741,
+        "assessments_attended": 74,
+        "no_shows": 48,
+        "surgeries": 38,
+        "revenue": 314220
+      }
+    },
+    "Tummy tuck": {
+      "after": {
+        "leads": 989,
+        "assessments_attended": 109,
+        "no_shows": 34,
+        "surgeries": 41,
+        "revenue": 674710
+      },
+      "before": {
+        "leads": 855,
+        "assessments_attended": 73,
+        "no_shows": 46,
+        "surgeries": 45,
+        "revenue": 771540
+      }
+    },
+    "Buccal fat removal": {
+      "after": {
+        "leads": 560,
+        "assessments_attended": 83,
+        "no_shows": 19,
+        "surgeries": 32,
+        "revenue": 141710
+      },
+      "before": {
+        "leads": 493,
+        "assessments_attended": 59,
+        "no_shows": 24,
+        "surgeries": 26,
+        "revenue": 119830
+      }
+    }
+  },
+  "by_city": {
+    "Chicago": {
+      "after": {
+        "leads": 3736,
+        "assessments_attended": 402,
+        "no_shows": 107,
+        "surgeries": 188,
+        "revenue": 2857900
+      },
+      "before": {
+        "leads": 2774,
+        "assessments_attended": 264,
+        "no_shows": 168,
+        "surgeries": 141,
+        "revenue": 2019680
+      }
+    },
+    "Houston": {
+      "after": {
+        "leads": 1568,
+        "assessments_attended": 165,
+        "no_shows": 54,
+        "surgeries": 65,
+        "revenue": 927360
+      },
+      "before": {
+        "leads": 1228,
+        "assessments_attended": 124,
+        "no_shows": 74,
+        "surgeries": 65,
+        "revenue": 994130
+      }
+    },
+    "Other cities": {
+      "after": {
+        "leads": 784,
+        "assessments_attended": 89,
+        "no_shows": 24,
+        "surgeries": 50,
+        "revenue": 788240
+      },
+      "before": {
+        "leads": 560,
+        "assessments_attended": 60,
+        "no_shows": 31,
+        "surgeries": 32,
+        "revenue": 443440
+      }
+    },
+    "Dallas": {
+      "after": {
+        "leads": 991,
+        "assessments_attended": 105,
+        "no_shows": 26,
+        "surgeries": 44,
+        "revenue": 608530
+      },
+      "before": {
+        "leads": 787,
+        "assessments_attended": 71,
+        "no_shows": 31,
+        "surgeries": 36,
+        "revenue": 532430
+      }
+    },
+    "Miami": {
+      "after": {
+        "leads": 654,
+        "assessments_attended": 67,
+        "no_shows": 20,
+        "surgeries": 36,
+        "revenue": 483890
+      },
+      "before": {
+        "leads": 487,
+        "assessments_attended": 41,
+        "no_shows": 24,
+        "surgeries": 16,
+        "revenue": 252210
+      }
+    },
+    "Abroad": {
+      "after": {
+        "leads": 334,
+        "assessments_attended": 45,
+        "no_shows": 9,
+        "surgeries": 17,
+        "revenue": 222910
+      },
+      "before": {
+        "leads": 240,
+        "assessments_attended": 25,
+        "no_shows": 13,
+        "surgeries": 11,
+        "revenue": 148040
+      }
+    }
+  },
+  "confirmation": {
+    "before": {
+      "confirmed": {
+        "due": 279,
+        "attended": 237
+      },
+      "unconfirmed": {
+        "due": 647,
+        "attended": 348
+      }
+    },
+    "after": {
+      "confirmed": {
+        "due": 777,
+        "attended": 679
+      },
+      "unconfirmed": {
+        "due": 336,
+        "attended": 194
+      }
+    }
+  },
+  "path_to_surgery_backtest": {
+    "day": "2026-06-30",
+    "until": "2026-09-30",
+    "calls": 600,
+    "model_finds": 115,
+    "most_recent_finds": 31,
+    "candidates": 13417,
+    "surgeries_among_candidates": 159
+  }
+}
