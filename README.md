@@ -9,6 +9,10 @@ repo is what sits behind a dashboard like that, run on the same clinic: the same
 33,973 invented patients and 6,537 appointments. After cleaning, the figures in gold
 match the ones that page prints, **198 of 198**.
 
+The walkthrough is on Notion, in plain words: [start here](https://app.notion.com/p/Sustain-Media-40ebc3991596807ea650c210c76cd65e) ·
+[1 · How I build a client project](https://app.notion.com/p/40ebc399159681cf9a30efff6d3015d3) ·
+[2 · Keeping AI-built apps safe in production](https://app.notion.com/p/40ebc399159681659dbee2119b795de6)
+
 ```
 CRM export -> bronze (exactly what arrived) -> silver (clean, one shape) -> gold (ready for screens)
                                                      |                         |
